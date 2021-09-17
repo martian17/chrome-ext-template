@@ -1,0 +1,6 @@
+[submodule "htmlgen"]
+	path = htmlgen
+	url = https://github.com/martian17/htmlgen.git
+[submodule "chromeext-msg-wrapper"]
+	path = chromeext-msg-wrapper
+	url = https://github.com/martian17/chromeext-msg-wrapper.git
